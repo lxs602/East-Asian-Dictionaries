@@ -35,7 +35,7 @@ https://github.com/openvanilla/openvanilla/tree/master/DataTables
 ## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
 
 ### About
-A dictionary of etymology of 6,379 Chinese characters, with their Japanese meanings, but with application to Chinese language study. 
+A dictionary of etymology of 6,379 Chinese characters, with their Japanese meanings. 
 
 ### Example
 <table><tr><td><font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.</td></tr></table>
