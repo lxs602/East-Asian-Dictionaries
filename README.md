@@ -29,5 +29,41 @@ A dictionary of 10,000 kanji stroke animations, from images by <a href=https://g
 <br><br>
 <b>資料來源 Original Files:</b><br>
 https://github.com/chinese-opendesktop/cin-tables <br>
-https://github.com/openvanilla/openvanilla/tree/master/DataTables <br>	 
+https://github.com/openvanilla/openvanilla/tree/master/DataTables 
+<br><br>
+
+## Kanjinetworks - (Japanese) Etymological Dictionary of Han Chinese Characters
+
+### About 說明 / 说明
+A dictionary of etymology of 6,379 Chinese characters, with their Japanese meanings, but with application to Chinese language study. 
+
+### Example 事例
+<table><tr><td><font size="+3">手　</font><br>(4 strokes) >シュ；て<br>A depiction of a <i>hand</i> showing the five fingers in a curved, gripping position. Extended meanings include <i>arm</i>; <i>paw</i>; <i>foreleg</i>; <i>a handle</i>; <i>helper</i>; <i>a means</i>; <i>technique</i>; (in board games) <i>a move</i>; <i>a type</i>; <i>a direction</i>; and <i>handwriting</i>.</td></tr></table>
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Kanjinetworks%20-%20Etymological%20Dictionary%20of%20Han%20Chinese%20Characters)
+
+### Licence 許可證 / 许可证
+Freely distributed.
+<br><br>
+
+## 統一漢字典 Unihan character dictionary
+
+### About 說明 / 说明
+Contains the complete range of characters from the Unihan project, and character properties suitable for language learning. Pictures of characters (as SVGs, from [Glyphwiki.org](http://en.glyphwiki.org/wiki/GlyphWiki:MainPage)) are included for those that might be less common or new, and not displayed depending on the fonts installed.
+	
+Unihan version: 13.0 (2020-02-18), with the 9 new characters added from Unihan 14.0 (2a6de, 2a6df, 2b735, 2b736, 2b737, 2b738, 9ffd, 9ffe, 9fff). Thus contains all 93,867 characters from Unihan 14.0 (up to and including ext. G).
+
+### [Download 下載 / 下载](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8)
+
+### Example 事例： 
+隷 (U+FA2F), shown in both in the font and as an SVG picture:<br><br>
+![image](https://user-images.githubusercontent.com/44102215/152378066-ea1f5f8d-594a-4650-9a3d-f0aae9ae1c3c.png)<br>
+
+### Licences 許可證 / 许可证
+Unihan: [Unicode licence](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/blob/main/Unihan%20character%20dictionary%20%E7%B5%B1%E4%B8%80%E6%BC%A2%E5%AD%97%E5%85%B8/License.html). Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.<br>
+Glyphwiki: [freely available](http://en.glyphwiki.org/wiki/GlyphWiki:License)
+<br><br>
+
+
+
 	
